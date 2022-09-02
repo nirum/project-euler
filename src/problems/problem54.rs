@@ -1,9 +1,3 @@
-/*
-* The decimal number, 585 = 10010010012 (binary), is palindromic in both bases.
-*
-* Find the sum of all numbers, less than one million, which are palindromic in base 10 and base 2.
-*
-*/
 use std::cmp::Ordering;
 use std::collections::HashMap;
 use std::io::{BufRead, BufReader};
